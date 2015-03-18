@@ -1,0 +1,15 @@
+{
+  "name": "brainrepo/namshiApiTest",
+  "description": "Trying to do the namshi senior api test",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mauro Murru",
+      "email": "murru7@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/class-loader": "v2.6.5"
+  }
+}
